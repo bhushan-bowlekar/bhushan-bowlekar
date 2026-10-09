@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhushan-bowlekar/bhushan-bowlekar/main/Gemini_Generated_Gif_wzki3mwzki3mwzki.gif" width="100%" alt="GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhushan Bowlekar</h1>
 <h3 align="center">Passionate about Data</h3>
 
