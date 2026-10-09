@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhushan Bowlekar</h1>
 <h3 align="center">Passionate about Data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-bowlekar&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan-bowlekar" /> </p>
+<img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan-bowlekar" alt="bhushan-bowlekar" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-bowlekar&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan-bowlekar" /> </p>
 
 - 🔭 I’m currently working on [EstateMind Copilot](https://github.com/bhushan-bowlekar/EstateMind-Copilot)
 
