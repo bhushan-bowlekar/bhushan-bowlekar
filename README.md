@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhushan-bowlekar/bhushan-bowlekar/main/Gemini_Generated_Gif_wzki3mwzki3mwzki.gif" width="100%" alt="GitHub Banner" />
+  <img
+    src="https://raw.githubusercontent.com/bhushan-bowlekar/bhushan-bowlekar/main/Data%20Scientist%20Portfolio_%20Analyze%2C%20Build%2C%20Grow.png"
+    width="100%"
+    alt="Bhushan Bowlekar - Data Scientist Portfolio"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhushan Bowlekar</h1>
